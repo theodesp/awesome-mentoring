@@ -13,13 +13,13 @@
 A list of articles that helps you understand and enhance your skill as a mentor
 
 - [Mentoring Skills (skillsyouneed.com)](https://www.skillsyouneed.com/learn/mentoring-skills.html): Provides a useful explanation 
-of what is mentoring and what are the skills you need to demonstrate
+of what is mentoring and what are the skills you need to demonstrate.
 - [Learning from Mentoring (skillsyouneed.com)](https://www.skillsyouneed.com/learn/learning-from-mentoring.html): Provides a reflective view on
 mentoring from the learners view.
 - [Top 10 Qualities of a Mentor](http://franchisegrowthpartners.com/mentoring): A birds eye overview of some qualities you need to 
-possess as a mentor
+possess as a mentor.
 - [What Great Listeners Actually do](https://hbr.org/2016/07/what-great-listeners-actually-do?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
-Its all about active listening and learning when to speak
+: Its all about active listening and learning when to speak.
 
 ## Contribute
 
