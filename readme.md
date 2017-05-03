@@ -18,7 +18,8 @@ of what is mentoring and what are the skills you need to demonstrate
 mentoring from the learners view.
 - [Top 10 Qualities of a Mentor](http://franchisegrowthpartners.com/mentoring): A birds eye overview of some qualities you need to 
 possess as a mentor
-
+- [What Great Listeners Actually do](https://hbr.org/2016/07/what-great-listeners-actually-do?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
+Its all about active listening and learning when to speak
 
 ## Contribute
 
